@@ -1,0 +1,4 @@
+def cc_nc():
+  nc = 33 
+  
+  return nc
